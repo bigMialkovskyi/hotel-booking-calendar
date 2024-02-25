@@ -7,7 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run dev
 ```
 
 ### Compiles and minifies for production
@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## DESCRIPTION
+### This application implements the review of hotel reservations. The following functions were implemented:
+* Desktop in the form of a calendar.
+* Weekly navigation.
+* Pop-up tool for displaying detailed information.
+* Using Vuex (All display data and navigation data are stored in the store)
+
